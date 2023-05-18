@@ -124,7 +124,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/12/2023 1:53:06,Mathematics,"Rock, Metal",Sometimes,Spotify,Metallica,,Queen - a night at the opera,Yes
 5/12/2023 1:55:13,Mathematics,"Pop, Indie, Rock",Yes,Spotify,Nanna,Of Monsters and Men - Empire,Nanna - How To Start A Garden,No
 5/12/2023 1:59:34,Health,"Pop, Classical",Yes,Spotify,,,,No
-5/12/2023 2:07:47,Mathematics,J-pop,Yes,Spotify,Yorushika,Yorushika - だから僕は音楽を辞めた,Yorushika - だから僕は音楽を辞めた,No
+5/12/2023 2:07:47,Mathematics,J-pop,Yes,Spotify,Yorushika,,,No
 5/12/2023 2:09:19,Mathematics,"Pop, K-Pop",Sometimes,YouTube Music,Jukjae,Jukjae - Do you want to walk with me,Taylor Swift - Lover,No
 5/12/2023 2:23:54,Engineering,"Hip-Hop / Rap, R&B, Pop, K-Pop, Lofi",Yes,Apple Music,Kanye West,Drake - Ice Melts,Frank Ocean - Blonde,No
 5/12/2023 2:26:17,Science,"Indie, Rock, Punk and Metal",No,"i dont, mp3s and ripped cds",screaming females,The Tragically Hip - Nautical Disaster,Screaming Females - Desire Pathway,Yes
@@ -310,7 +310,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/12/2023 14:47:56,Environment,"Indie, K-Pop, Rock, Vocaloid",Sometimes,Spotify,Mindless self indulgence,I hate myself because - i feel bad,Mindelss self indulgence - If,Yes
 5/12/2023 14:48:34,Arts,"Hip-Hop / Rap, Pop",Sometimes,Spotify,Megan thee Stallion,Megan thee stallion - NDA,Beyonce - Renaissance,No
 5/12/2023 15:04:28,Science,"Classical, Rock, Jazz",Yes,Spotify,,,,
-5/12/2023 15:05:56,Engineering,"Indie, Classical, Russian post punk",Sometimes,Spotify,Molchat Doma,Permsky Kray - дорогой человек,Beach house - Bloom,No
+5/12/2023 15:05:56,Engineering,"Indie, Classical, Russian post punk",Sometimes,Spotify,Molchat Doma,,Beach house - Bloom,No
 5/12/2023 15:09:15,Mathematics,"Hip-Hop / Rap, Pop, Indie, Rock",Yes,Spotify,Los Campesinos!,Flight Patterns - if ur leffen then im chillindude,glass beach - the first glass beach album,Yes
 5/12/2023 15:13:15,Engineering,"Hip-Hop / Rap, Pop, Indie, Rock, Lofi",Yes,Spotify,Kevin Walkman,"Atwood, Kyaru - SRT",Kevin Walkman - Thank You For Coming,No
 5/12/2023 15:16:00,Mathematics,"Hip-Hop / Rap, Pop, Indie, Rock",Yes,Spotify,The Flaming Lips,Laura Les - Haunted,Kara Jackson - Why Does the Earth Give Us People to Love?,No
@@ -393,7 +393,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/12/2023 23:47:49,Engineering,"Pop, Rock",Sometimes,YouTube Music,Rush,If You Could Read My Mind - Gordon Lightfoot ,Boston - Boston,No
 5/12/2023 23:54:25,Engineering,"Hip-Hop / Rap, Pop, Country, EDM, Rock",No,Spotify,Morgan Wallen,,,No
 5/12/2023 23:59:45,Engineering,"Hip-Hop / Rap, R&B, Pop, Classical, Rock, Jazz, Lofi",Sometimes,YouTube Music,Gorillaz,Bill Withers - Just the Two of Us,,Yes
-5/13/2023 0:06:48,Mathematics,"Hip-Hop / Rap, Pop, Rock, Jazz, Lofi, I love genre bending bands with root in rock. So like Nu Metal/Rap, Alternative/Rap, Acousta-pop, blues rock. ",Yes,Spotify,The Beatles,"The Beatles - Norwegian Wood (This Bird Has Flown), The Beatles - Michelle",Ed Sheeran - Subtract,Yes
+5/13/2023 0:06:48,Mathematics,"Hip-Hop / Rap, Pop, Rock, Jazz, Lofi, I love genre bending bands with root in rock. So like Nu Metal/Rap, Alternative/Rap, Acousta-pop, blues rock. ",Yes,Spotify,The Beatles,The Beatles - Michelle,Ed Sheeran - Subtract,Yes
 5/13/2023 0:31:24,Health,"Hip-Hop / Rap, Pop, EDM, Classical",Yes,Spotify,One Republic,"Nelly, Florida Georgia Line - Lil Bit",One Republic - Human,Yes
 ,,,,,,,,
 5/13/2023 1:11:15,Environment,"Pop, Indie, K-Pop",Yes,Spotify,conan gray,lizzy mcalpine - ceilings,sza - sos,No
