@@ -2,17 +2,9 @@
 
 An exploratory data analysis (EDA) of the type of music UWaterloo students listen to.
 
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Tools Used](#tools-used)
-- [Data Collection](#data-collection)
-- [Visualizations](#visualization)
-
 <br>
 
-## Introduction
+## Introduction :cd:
 
 As a huge music nerd, I'm constantly eager to find a new song or artist to listen to, and I'm always curious about what plays in the headphones of other people. As an even bigger data and programming nerd, I'm thinking about the next project that excites me.
 
@@ -20,7 +12,7 @@ So, as a data visualization post for the University of Waterloo Data Science Clu
 
 <br>
 
-## Tools Used
+## Tools Used :gear:
 
 <table>
     <tr>
@@ -34,10 +26,13 @@ So, as a data visualization post for the University of Waterloo Data Science Clu
 </table>
 <br>
 
-## Data Collection
+## Data Collection :file_folder:
 
 All visualization results come from the data of 400+ survey responses collected in May 2023.
 
-The following link takes you to the original reddit post made on May 12, 2023.
+The following link takes you to the survey used to collect the data:
+https://forms.gle/dKL9HX8aeQdDRWdw9
+
+The following link takes you to the original reddit post made on May 12, 2023:
 https://www.reddit.com/r/uwaterloo/comments/13f6ao1/what_music_do_uw_students_listen_to/?utm_source=share&utm_medium=web2x&context=3
 
