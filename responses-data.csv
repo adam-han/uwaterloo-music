@@ -1,7 +1,7 @@
 Timestamp,What faculty are you in?,What genres of music do you regularly listen to? (Please select all that apply),Do you listen to music when you study?,What music streaming service do you primarily use?,Who is your favourite artist/band right now?,"What is your favourite song right now? (Please follow an ""Artist - Song Title"" format)","What is your favourite album right now? (Please follow an ""Artist - Album"" format)",Have you attended any concerts / live music events in the past year?
 5/10/2023 21:54:04,Mathematics,"R&B, Pop, Indie, K-Pop",Yes,Spotify,Joji,FIFTY FIFTY - Cupid,Joji - Smithereens,No
 5/10/2023 21:59:31,Mathematics,"Hip-Hop / Rap, Pop, Indie, K-Pop, Rock",No,Spotify,Pink Floyd,Eagles - Hotel California,Pink Floyd - Wish You Were Here,No
-5/10/2023 21:59:37,Mathematics,"Hip-Hop / Rap, Pop, EDM, K-Pop",Yes,YouTube Music,MCK,Vân rung -Gill,,Yes
+5/10/2023 21:59:37,Mathematics,"Hip-Hop / Rap, Pop, EDM, K-Pop",Yes,YouTube Music,MCK,Vân rung - Gill,,Yes
 5/10/2023 22:10:06,Mathematics,"Hip-Hop / Rap, R&B, Pop, Indie, Rock",Yes,Spotify,Polo g,Lil uzi vert - Futsal shuffle,Blink182 - Enema of the state,No
 5/10/2023 22:30:48,,"Hip-Hop / Rap, R&B, Pop, Indie, K-Pop, Jazz, Lofi",Yes,Spotify,,,,Yes
 5/10/2023 23:04:22,Mathematics,"Pop, Indie, EDM, Classical, Jazz, Lofi, Video Game Music",Yes,Spotify,YOASOBI,Celeina Ann - Message In the Wind,,No
@@ -34,7 +34,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/11/2023 22:39:02,Health,"Pop, Classical, Rock",Sometimes,Spotify,,,,No
 5/11/2023 22:41:53,Engineering,Rock,Sometimes,Spotify,CAKE,CAKE - Stickshifts and safety belts ,CAKE - Motorcades of generosity ,No
 5/11/2023 22:57:14,Mathematics,"Hip-Hop / Rap, R&B, Indie, K-Pop",Yes,Spotify,NewJeans,NewJeans - Ditto,CHANGMO - DNSG,No
-5/11/2023 22:59:05,Science,"Hip-Hop / Rap, Pop, Indie, Rock, Lofi",Yes,Spotify,The 1975,The Alcott-The national,When We Were Friends-The Backseat Lovers,Yes
+5/11/2023 22:59:05,Science,"Hip-Hop / Rap, Pop, Indie, Rock, Lofi",Yes,Spotify,The 1975,The Alcott - The national,When We Were Friends-The Backseat Lovers,Yes
 5/11/2023 23:05:27,Science,"EDM, Classical",No,Spotify,Oliver Heldens,"Debris, Our Psyche - Omerta",Martin Garrix - Sentio,No
 5/11/2023 23:12:40,Mathematics,"R&B, Pop, EDM, K-Pop, Rock, Musicals",Yes,Spotify,NewJeans,Hozier - Eat Your Young ,JVKE - this is what ____ feels like,No
 5/11/2023 23:16:05,Mathematics,"R&B, Pop, Indie, K-Pop, Lofi",Yes,Spotify,,,,Yes
@@ -180,7 +180,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/12/2023 8:28:12,Mathematics,"Hip-Hop / Rap, Pop, Country, EDM",No,Spotify,Drake,Sza - Kill Bill,Pink Floyd - Dark Side of the Moon,No
 5/12/2023 8:31:31,Mathematics,Alternative. Surf. Folk. 80s. Power pop. Punk. Reggae. Ska.,Yes,None. CDs. LPs. MP3s.,The Stranglers,Smiths - How Soon is Now,Beatles - Revolver,Yes
 5/12/2023 8:32:06,Engineering,"Indie, EDM, Rock, Lofi",Yes,Spotify,Radiohead,,Radiohead - In Rainbows,Yes
-5/12/2023 8:33:43,Engineering,"EDM, Rock, vgm",Sometimes,Spotify,falcom sound team jdk,devils spear,,Yes
+5/12/2023 8:33:43,Engineering,"EDM, Rock, vgm",Sometimes,Spotify,,,,Yes
 5/12/2023 8:33:56,Arts,Bollywood,Yes,Spotify,AP Dhillon,AP Dhillon - Excuses,,No
 5/12/2023 8:34:20,Engineering,"Hip-Hop / Rap, Pop, Indie, Rock, Lofi",Sometimes,Spotify,Radiohead,Radiohead - The Daily Mail,Radiohead - OK Computer,No
 5/12/2023 8:36:43,Arts,"Indie, EDM",No,YouTube Music,,,,Yes
@@ -215,7 +215,7 @@ Timestamp,What faculty are you in?,What genres of music do you regularly listen 
 5/12/2023 9:47:30,Arts,"Classical, K-Pop, Musicals",Sometimes,Spotify,Seventeen,Seventeen - Super,,No
 5/12/2023 9:48:15,Mathematics,"Indie, Classical, Metal",Sometimes,Spotify,,,,No
 5/12/2023 9:48:17,Engineering,"Hip-Hop / Rap, R&B, Pop, Indie, Classical, K-Pop, Jazz, Lofi",Yes,Spotify,,,,No
-5/12/2023 9:53:24,Engineering,Rock,No,Spotify,Toto,Hold The Line,Rush - 2112 ,No
+5/12/2023 9:53:24,Engineering,Rock,No,Spotify,Toto,,Rush - 2112 ,No
 5/12/2023 9:56:57,Engineering,"Hip-Hop / Rap, R&B",Yes,Spotify,,,,Yes
 5/12/2023 10:01:07,Mathematics,"Hip-Hop / Rap, Rock, Jazz",Sometimes,Spotify,billy woods,billy woods - Remorseless,Navy Blue - Ways of Knowing,Yes
 5/12/2023 10:01:47,Mathematics,"Hip-Hop / Rap, R&B, Pop, EDM, Rock",Sometimes,Spotify,Saint Jhn,Angus & Julia Stone - A Heartbreak ,Common - Be,Yes
