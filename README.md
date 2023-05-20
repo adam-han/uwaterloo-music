@@ -36,3 +36,12 @@ https://forms.gle/dKL9HX8aeQdDRWdw9
 The following link takes you to the original reddit post made on May 12, 2023:
 https://www.reddit.com/r/uwaterloo/comments/13f6ao1/what_music_do_uw_students_listen_to/?utm_source=share&utm_medium=web2x&context=3
 
+<br>
+
+## Data Visualizations
+![alt text](./visualizations/fav_artists.png)
+![alt text](./visualizations/fav_songs.png)
+![alt text](./visualizations/fav_albums.png)
+![alt text](./visualizations/genres.png)
+![alt text](./visualizations/streaming_services.png)
+![alt text](./visualizations/music_studying_pie.png)
