@@ -39,9 +39,37 @@ https://www.reddit.com/r/uwaterloo/comments/13f6ao1/what_music_do_uw_students_li
 <br>
 
 ## Data Visualizations
-![alt text](./visualizations/fav_artists.png)
-![alt text](./visualizations/fav_songs.png)
-![alt text](./visualizations/fav_albums.png)
-![alt text](./visualizations/genres.png)
-![alt text](./visualizations/streaming_services.png)
-![alt text](./visualizations/music_studying_pie.png)
+<p align="center">
+<img src="./visualizations/final-post/1.png" alt="Image 1" width="600">
+</p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./visualizations/final-post/2.png" alt="Image 1" width="300">
+      <br>
+    </td>
+    <td align="center">
+      <img src="./visualizations/final-post/3.png" alt="Image 2" width="300">
+      <br>
+    </td>
+    <td align="center">
+      <img src="./visualizations/final-post/4.png" alt="Image 3" width="300">
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./visualizations/final-post/5.png" alt="Image 4" width="300">
+      <br>
+    </td>
+    <td align="center">
+      <img src="./visualizations/final-post/6.png" alt="Image 5" width="300">
+      <br>
+    </td>
+    <td align="center">
+      <img src="./visualizations/final-post/7.png" alt="Image 6" width="300">
+      <br>
+    </td>
+  </tr>
+</table>
