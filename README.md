@@ -6,7 +6,7 @@ An exploratory data analysis (EDA) of the type of music UWaterloo students liste
 
 ## Introduction :cd:
 
-As a huge music nerd, I'm constantly eager to find a new song or artist to listen to, and I'm always curious about what plays in the headphones of other people. As an even bigger data and programming nerd, I'm thinking about the next project that excites me.
+As a huge music nerd, I'm constantly eager to find a new song or artist to listen to and I'm always curious about what plays in the headphones of other people. As an even bigger data and programming nerd, I'm always excited by the possibilities of a new project.
 
 So, as a data visualization post for the University of Waterloo Data Science Club, I couldn't think of anything else better to explore than the relationship between music and the UWaterloo student body!
 
